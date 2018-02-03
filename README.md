@@ -1,7 +1,6 @@
 # D-Compute (In-Development)
 
 An experimental Library :microscope: to experiment with DNA Computing :zap:
-------
 
 # What is it?
 
