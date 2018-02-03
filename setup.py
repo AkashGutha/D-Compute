@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='d-compute',
     version='0.0.1',
-    description='a pip-installable package example',
+    description='a library to experiment with DNA computing',
     license='MIT',
     packages=['d-compute'],
     author='Akash Gutha',
